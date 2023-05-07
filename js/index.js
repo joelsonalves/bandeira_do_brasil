@@ -33,7 +33,7 @@ botao.addEventListener('click', () => {
         desenharCirculo('blue');
         botao.innerText = 'Apagar';
     } else {
-        desenharRetangulo('white');
+        desenharRetangulo('lightgrey');
         botao.innerText = 'Desenhar';
     }
 });
