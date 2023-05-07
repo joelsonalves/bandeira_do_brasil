@@ -11,7 +11,7 @@ header {
 }
 
 h1 {
-    color: white;
+    color: yellow;
 }
 
 section {
@@ -27,8 +27,8 @@ button {
     padding: 10px;
     border-radius: 25px 25px;
     font-weight: bold;
-    background-color: white;
-    box-shadow: 2px 2px black;
+    background-color: yellow;
+    box-shadow: 2px 2px white;
 }
 
 canvas {
